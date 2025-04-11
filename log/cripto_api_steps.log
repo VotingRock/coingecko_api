@@ -1,0 +1,16 @@
+2025-04-11 12:16:08,435 - INFO - -------------START PIPELINE RUNNING-------------
+2025-04-11 12:16:08,435 - INFO - -------------API CONECTION-------------
+2025-04-11 12:16:08,437 - INFO - Calling CoinGecko...
+2025-04-11 12:16:08,793 - INFO - Conection works
+2025-04-11 12:16:08,793 - INFO - Start creating Dataframe
+2025-04-11 12:16:09,374 - INFO - NumExpr defaulting to 10 threads.
+2025-04-11 12:16:10,044 - INFO - Spark dataframe ready
+2025-04-11 12:16:10,044 - INFO - -------------SAVE DATA-------------
+2025-04-11 12:16:10,044 - INFO - Starting saving in to DB...
+2025-04-11 12:16:12,240 - INFO - Data successfully saved
+2025-04-11 12:16:12,240 - INFO - -------------5 DAY AVG-------------
+2025-04-11 12:16:12,240 - INFO - Conecting to the DB...
+2025-04-11 12:16:12,255 - INFO - Conection works
+2025-04-11 12:16:12,568 - INFO - Finish the window creation. Save data to DB...
+2025-04-11 12:16:12,878 - INFO - The data is update
+2025-04-11 12:16:12,878 - INFO - Closing down clientserver connection
