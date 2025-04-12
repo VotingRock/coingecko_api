@@ -59,3 +59,7 @@ python test_integration.py
 - Validate that the {coin}_prices_v2 and {coin}_ma_5d tables contain data.
 - Test that the coin_prices() function returns a DataFrame with valid prices.
 
+## 👨‍💻 Author
+This project was developed as part of a data engineering technical challenge.
+
+
