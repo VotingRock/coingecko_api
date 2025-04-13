@@ -36,8 +36,8 @@ conda activate spark_test
 
 Set the environment variables before running:
 ```bash
-export API_KEY='TU_API_KEY_DE_COINGECKO'
-export SQLITE_JDBC_JAR='/ruta/completa/sqlite-jdbc-3.36.0.3.jar'
+export API_KEY='YOUR_API_KEY_FROM_COINGECKO'
+export SQLITE_JDBC_JAR='/complete/path/sqlite-jdbc-3.36.0.3.jar'
 ```
 
 ## 👍 Executable
